@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NodesApp</string>
+    <string name="save_button_val">保存</string>
+
+</resources>

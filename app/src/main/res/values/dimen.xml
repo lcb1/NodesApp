@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_horizon">5dp</dimen>
+    <dimen name="margin_vertical">5dp</dimen>
+    <dimen name="save_button_val_size">15sp</dimen>
+</resources>
